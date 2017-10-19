@@ -1,0 +1,13 @@
+---
+title: "Midterm"
+output: html_document
+---
+##Chris Smith 
+###October 15, 2017
+Here is some arothemtetic:
+```{r}
+x <- 5
+y <- 6 
+x^2+y^2
+```
+
