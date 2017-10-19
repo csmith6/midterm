@@ -3,7 +3,7 @@ title: "Midterm"
 output: html_document
 ---
 ##Chris Smith 
-###October 15, 2017
+##October 15, 2017
 Here is some arothemtetic:
 ```{r}
 x <- 5
